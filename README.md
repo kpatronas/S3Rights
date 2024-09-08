@@ -3,7 +3,7 @@ A simple bash script that lists rights of a user in a bucket
 
 ## Configuration
 
-This tool assumes you have aws cli allready configured since is just a wrapper to this, 
+This tool assumes you have jq installed and aws cli allready configured since is just a wrapper to this, 
 next thing you need to do is to give execution rights to the script
 ```
 chmod +x s3rights.sh
